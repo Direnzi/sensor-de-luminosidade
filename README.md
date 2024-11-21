@@ -4,9 +4,9 @@ O projeto emprega um ESP32 para controlar a luminosidade de um espaço através 
 A mensagem é recebida pelo MQTT Dash, possibilitando o monitoramento do ambiente à distância. Portanto, o projeto ilustra a aplicação do protocolo MQTT na construção de um sistema IoT simples e eficiente para detecção de luminosidade e alerta.
 
 #HARDWARE
-ESP32-WROOM-32 Dev Kit
-Protoboard – 400 furos
-Sensor Foto Resistor LDR
-LED RGB
-Buzzer CC 12mm TMB12A05
-Resistor 220R 1/4W
+ESP32-WROOM-32 Dev Kit  
+Protoboard – 400 furos  
+Sensor Foto Resistor LDR  
+LED RGB  
+Buzzer CC 12mm TMB12A05  
+Resistor 220R 1/4W  
